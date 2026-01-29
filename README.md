@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ... forever, it seems!<br>📚 I'm currently learning Django, GoLang, and diving into advanced topics like REST frameworks, JWT authentication, and background task processing.<br>🎯 Goals: Build robust and scalable web applications, master asynchronous programming, and excel in backend development.<br>🎲 Fun fact: I applied to the Vodafone Discover Graduate Program and enjoy combining tech with real-world solutions like scanning CBC reports or managing IP reputation data!</p>
+<p align="left">✨ Creating bugs since ... forever, it seems!<br>📚 I'm currently learning Django, GoLang, and diving into advanced topics like REST frameworks, JWT authentication, and background task processing.<br>🎯 Goals: Build robust and scalable web applications, master asynchronous programming, and excel in backend development.<br></p>
 
 ###
 
