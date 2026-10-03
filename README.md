@@ -140,13 +140,15 @@ I'm especially interested in understanding how applications behave in production
 
 ## 🏆 A Project I'm Proud Of
 
-### 🥇 1st Place — Full DevOps CI/CD Pipeline Project
+### 🌡️ ThermoRoute — Intelligent Route Risk Analysis
 
-Designed and implemented a complete DevOps pipeline covering:
+Designed and deployed a full-stack application that analyzes routes based on environmental and temperature-related risks.
 
-**AWS → Terraform → Docker → Kubernetes → Jenkins → GitHub Actions → Ansible → Prometheus → Grafana**
+**Django → PostgreSQL → React → Docker → AWS EKS → Terraform → Kubernetes → Helm → Argo CD → AI**
 
-The project helped me connect backend development with the infrastructure, automation, deployment, and monitoring required to run applications reliably.
+The project brought together backend development, cloud infrastructure, containerization, Kubernetes, Infrastructure as Code, GitOps, and AI into one production-style system.
+
+I'm particularly proud of building it end-to-end — from developing the backend and route analysis logic to provisioning the AWS infrastructure and deploying the application on Kubernetes.
 
 ---
 
@@ -178,4 +180,3 @@ I'm always interested in backend engineering, DevOps, cloud infrastructure, auto
 </p>
 
 <p align="center"><i>Thanks for stopping by! ⭐ Feel free to explore my repositories.</i></p>
- 
